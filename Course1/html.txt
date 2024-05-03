@@ -1,0 +1,8 @@
+<button class="clickme">Click Me</button>
+
+<section class="hidden">
+  <h1>My Learning</h1>
+  <p> Random text</p>
+  <p> Second random text </p>
+
+</section>
