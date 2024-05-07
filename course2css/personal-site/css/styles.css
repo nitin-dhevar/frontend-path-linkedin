@@ -1,0 +1,18 @@
+/* color
+F7EBEC
+7C898B
+001B2E
+F7C4A5
+61210F */
+body {
+    background: #F7EBEC;
+}
+
+.home{
+    background: url(../images/bg-home-office-studio.jpg) no-repeat;
+    background-size: cover;
+}
+
+.home .content-wrapper{
+    background: rgb(255 255 255 /0.9);
+}
